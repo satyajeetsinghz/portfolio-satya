@@ -10,7 +10,7 @@ const About = () => {
           <div className='hidden md:grid grid-cols-2 w-full min-h-screen mb-0'>
             <div className='h-screen bg-ed-200'>
               <div className='inline-flex items-center bg-black px-2 py-2 translate-x-10 translate-y-40'>
-                <img className='w-16' src="public\img\chevron-outline.png" alt="" />
+                <img className='w-16' src="\img\chevron-outline.png" alt="" />
                 <h2 className='text-white md:text-2xl lg:text-5xl font-semibold'>Frontend Developer</h2>
               </div>
               <div className='inline-flex items-center bg-black px-2 py-2 translate-x-10 translate-y-44'>

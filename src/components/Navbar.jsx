@@ -12,10 +12,10 @@ const Navbar = () => {
                 {/* <a className="hidden md:hidden lg:block text-lg text-neutral-900/90 font-semibold cursor-pointer" href='#'>About</a> */}
                 <h2 className='hidden md:block lg:block text-base font-bold'>Connect on:</h2>
                 <a className="hidden md:hidden lg:block text-lg text-neutral-900/90 font-semibold" href="/">
-                    <img className='w-7' src="public\img\icons8-github-30.png" alt="" />
+                    <img className='w-7' src="\img\icons8-github-30.png" alt="" />
                 </a>
                 <a className="hidden md:hidden lg:block text-lg text-neutral-900/90 font-semibold" href="/">
-                <img className='w-7' src="public\img\icons8-linkedin-30.png" alt="" />
+                <img className='w-7' src="\img\icons8-linkedin-30.png" alt="" />
                 </a>
                 <button className="bg-neutral-900 text-white text-xs md:text-base font-medium px-3 py-1 md:px-8 lg:px-8 md:py-3 rounded-full">Start Hacking</button>
                 <button>

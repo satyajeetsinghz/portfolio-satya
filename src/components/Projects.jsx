@@ -5,7 +5,7 @@ const Projects = () => {
   return (
     <div className='pt-16 h-screen bg-ed-300 orbitron-family bg-neutral-100 overflow-hidden'>
       <div className='inline-flex items-center mx-8 bg-black w-fit pl-3 pr-[1.5rem] py-2'>
-        <img className='w-10 md:w-16' src="\public\img\chevron-outline.png" alt="" />
+        <img className='w-10 md:w-16' src="\img\chevron-outline.png" alt="" />
         <h2 className='text-2xl md:text-5xl text-white font-semibold'>Projects</h2>
       </div>
 
