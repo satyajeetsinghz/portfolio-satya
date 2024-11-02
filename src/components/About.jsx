@@ -59,7 +59,7 @@ const About = () => {
 
           <div className='h-[55vh] bg-ed-200'>
             <div className='inline-flex items-center bg-black px-2 py-2 translate-x-10 translate-y-40'>
-              <img className='w-10 h-8' src="public\img\chevron-outline.png" alt="" />
+              <img className='w-10 h-8' src="img\chevron-outline.png" alt="" />
               <h2 className='text-white text-2xl font-semibold'>Frontend Developer</h2>
             </div>
             <div className='inline-flex items-center bg-black px-2 py-2 translate-x-10 translate-y-44'>
