@@ -103,7 +103,7 @@ const Projects = () => {
                 <img className='w-full h-full object-cover' src="https://th.bing.com/th/id/OIP.rYM9rWqzQmbykKZCAo_eagAAAA?rs=1&pid=ImgDetMain" alt="" />
               </div>
               <div className='mt-2 inline-flex items-center bg-black text-white text-xs w-fit pl-2 pr-2 py-0.5'>
-                <img className='w-6' src="public\img\chevron-outline.png" alt="" />
+                <img className='w-6' src="\img\chevron-outline.png" alt="" />
                 Hacktober 2024
               </div>
               <div>
@@ -118,7 +118,7 @@ const Projects = () => {
                 <img className='w-full h-full object-cover' src="https://th.bing.com/th/id/OIP.rYM9rWqzQmbykKZCAo_eagAAAA?rs=1&pid=ImgDetMain" alt="" />
               </div>
               <div className='mt-2 inline-flex items-center bg-black text-white text-xs w-fit pl-2 pr-2 py-0.5'>
-                <img className='w-6' src="public\img\chevron-outline.png" alt="" />
+                <img className='w-6' src="\img\chevron-outline.png" alt="" />
                 Hacktober 2024
               </div>
               <div>
@@ -133,7 +133,7 @@ const Projects = () => {
                 <img className='w-full h-full object-cover' src="https://th.bing.com/th/id/OIP.rYM9rWqzQmbykKZCAo_eagAAAA?rs=1&pid=ImgDetMain" alt="" />
               </div>
               <div className='mt-2 inline-flex items-center bg-black text-white text-xs w-fit pl-2 pr-2 py-0.5'>
-                <img className='w-6' src="public\img\chevron-outline.png" alt="" />
+                <img className='w-6' src="\img\chevron-outline.png" alt="" />
                 Hacktober 2024
               </div>
               <div>
