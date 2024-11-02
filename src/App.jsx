@@ -10,7 +10,7 @@ function App() {
 
   return (
     <>
-      <div className="orbitron-family min-h-full bg-[url('..\public\img\AndroidCompact480.png')] md:bg-[url('..\public\img\Hackbit_Wallpaper.png')] bg-cover bg-center">
+      <div className="orbitron-family min-h-full bg-[url('/img/AndroidCompact480.png')] md:bg-[url('/img/Hackbit_Wallpaper.png')] bg-cover bg-center">
         {/* Navbar  */}
         <Navbar />
         {/* Heading  */}
