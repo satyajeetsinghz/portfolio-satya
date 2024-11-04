@@ -98,7 +98,7 @@ const Projects = () => {
           {/* Mobile View */}
           <div className='flex overflow-auto gap-[1rem] mt-[2rem] md:hidden lg:hidden'>
 
-            <div className="bg-white min-w-[300px] h-[35vh] md:h-[45vh] shadow-md p-4 text-black">
+            <div className="bg-white min-w-[300px] h-[40vh] md:h-[45vh] shadow-md p-4 text-black">
               <div className='w-full h-3/4 bg-red-400'>
                 <img className='w-full h-full object-cover' src="https://th.bing.com/th/id/OIP.rYM9rWqzQmbykKZCAo_eagAAAA?rs=1&pid=ImgDetMain" alt="" />
               </div>
@@ -113,7 +113,7 @@ const Projects = () => {
                 <button className='bg-[#1ED746] border-2 border-[#1c7730] text-[10px] font-semibold px-3 py-0.5'>Get now</button>
               </div>
             </div>
-            <div className="bg-white min-w-[300px] h-[35vh] md:h-[45vh] shadow-md p-4 text-black">
+            <div className="bg-white min-w-[300px] h-[40vh] md:h-[45vh] shadow-md p-4 text-black">
               <div className='w-full h-3/4 bg-red-400'>
                 <img className='w-full h-full object-cover' src="https://th.bing.com/th/id/OIP.rYM9rWqzQmbykKZCAo_eagAAAA?rs=1&pid=ImgDetMain" alt="" />
               </div>
@@ -128,7 +128,7 @@ const Projects = () => {
                 <button className='bg-[#1ED746] border-2 border-[#1c7730] text-[10px] font-semibold px-3 py-0.5'>Get now</button>
               </div>
             </div>
-            <div className="bg-white min-w-[300px] h-[35vh] md:h-[45vh] shadow-md p-4 text-black">
+            <div className="bg-white min-w-[300px] h-[40vh] md:h-[45vh] shadow-md p-4 text-black">
               <div className='w-full h-3/4 bg-red-400'>
                 <img className='w-full h-full object-cover' src="https://th.bing.com/th/id/OIP.rYM9rWqzQmbykKZCAo_eagAAAA?rs=1&pid=ImgDetMain" alt="" />
               </div>
