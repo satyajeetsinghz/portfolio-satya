@@ -96,7 +96,57 @@ const Projects = () => {
           </div>
 
           {/* Mobile View */}
-          <div className='flex overflow-auto gap-[1rem] mt-[2rem] md:hidden lg:hidden'>
+          <div className='flex overflow-auto gap-[2rem] mt-[2rem] md:hidden lg:hidden'>
+
+            <div className="bg-neutral-100 min-w-[250px] h-[35vh] md:h-[45vh] shadow-md p-4 text-black">
+              <div className='w-full h-4/6 bg-red-400'>
+                <img className='w-full h-full object-cover' src="https://th.bing.com/th/id/OIP.rYM9rWqzQmbykKZCAo_eagAAAA?rs=1&pid=ImgDetMain" alt="" />
+              </div>
+              <div className='mt-2 inline-flex items-center bg-black text-white text-xs w-fit pl-2 pr-2 py-0.5'>
+                <img className='w-6' src="\img\chevron-outline.png" alt="" />
+                Hacktober 2024
+              </div>
+              <div>
+                <span className='text-[10px] line-clamp-2 mt-1'>Re-open on 24 Nov, Claim your reward here!</span>
+              </div>
+              <div className='bg-re-200 flex justify-end items-center mt-2 mr-2'>
+                <button className='bg-[#1ED746] border-2 border-[#1c7730] text-[10px] font-semibold px-3 py-0.5'>Get now</button>
+              </div>
+            </div>
+
+            <div className="bg-neutral-100 min-w-[250px] h-[35vh] md:h-[45vh] shadow-md p-4 text-black">
+              <div className='w-full h-4/6 bg-red-400'>
+                <img className='w-full h-full object-cover' src="https://th.bing.com/th/id/OIP.rYM9rWqzQmbykKZCAo_eagAAAA?rs=1&pid=ImgDetMain" alt="" />
+              </div>
+              <div className='mt-2 inline-flex items-center bg-black text-white text-xs w-fit pl-2 pr-2 py-0.5'>
+                <img className='w-6' src="\img\chevron-outline.png" alt="" />
+                Hacktober 2024
+              </div>
+              <div>
+                <span className='text-[10px] line-clamp-2 mt-1'>Re-open on 24 Nov, Claim your reward here!</span>
+              </div>
+              <div className='bg-re-200 flex justify-end items-center mt-2 mr-2'>
+                <button className='bg-[#1ED746] border-2 border-[#1c7730] text-[10px] font-semibold px-3 py-0.5'>Get now</button>
+              </div>
+            </div>
+
+
+            {/* <div className="bg-white min-w-[300px] h-[40vh] md:h-[45vh] shadow-md p-4 text-black">
+              <div className='w-full h-3/4 bg-red-400'>
+                <img className='w-full h-full object-cover' src="https://th.bing.com/th/id/OIP.rYM9rWqzQmbykKZCAo_eagAAAA?rs=1&pid=ImgDetMain" alt="" />
+              </div>
+              <div className='mt-2 inline-flex items-center bg-black text-white text-xs w-fit pl-2 pr-2 py-0.5'>
+                <img className='w-6' src="\img\chevron-outline.png" alt="" />
+                Hacktober 2024
+              </div>
+              <div>
+                <span className='text-[10px] line-clamp-2 mt-1'>Re-open on 24 Nov, Claim your reward here!</span>
+              </div>
+              <div className='bg-re-200 flex justify-end items-center mt-2 mr-2'>
+                <button className='bg-[#1ED746] border-2 border-[#1c7730] text-[10px] font-semibold px-3 py-0.5'>Get now</button>
+              </div>
+            </div>
+
 
             <div className="bg-white min-w-[300px] h-[40vh] md:h-[45vh] shadow-md p-4 text-black">
               <div className='w-full h-3/4 bg-red-400'>
@@ -112,37 +162,9 @@ const Projects = () => {
               <div className='bg-re-200 flex justify-end items-center mt-2 mr-2'>
                 <button className='bg-[#1ED746] border-2 border-[#1c7730] text-[10px] font-semibold px-3 py-0.5'>Get now</button>
               </div>
-            </div>
-            <div className="bg-white min-w-[300px] h-[40vh] md:h-[45vh] shadow-md p-4 text-black">
-              <div className='w-full h-3/4 bg-red-400'>
-                <img className='w-full h-full object-cover' src="https://th.bing.com/th/id/OIP.rYM9rWqzQmbykKZCAo_eagAAAA?rs=1&pid=ImgDetMain" alt="" />
-              </div>
-              <div className='mt-2 inline-flex items-center bg-black text-white text-xs w-fit pl-2 pr-2 py-0.5'>
-                <img className='w-6' src="\img\chevron-outline.png" alt="" />
-                Hacktober 2024
-              </div>
-              <div>
-                <span className='text-[10px] line-clamp-2 mt-1'>Re-open on 24 Nov, Claim your reward here!</span>
-              </div>
-              <div className='bg-re-200 flex justify-end items-center mt-2 mr-2'>
-                <button className='bg-[#1ED746] border-2 border-[#1c7730] text-[10px] font-semibold px-3 py-0.5'>Get now</button>
-              </div>
-            </div>
-            <div className="bg-white min-w-[300px] h-[40vh] md:h-[45vh] shadow-md p-4 text-black">
-              <div className='w-full h-3/4 bg-red-400'>
-                <img className='w-full h-full object-cover' src="https://th.bing.com/th/id/OIP.rYM9rWqzQmbykKZCAo_eagAAAA?rs=1&pid=ImgDetMain" alt="" />
-              </div>
-              <div className='mt-2 inline-flex items-center bg-black text-white text-xs w-fit pl-2 pr-2 py-0.5'>
-                <img className='w-6' src="\img\chevron-outline.png" alt="" />
-                Hacktober 2024
-              </div>
-              <div>
-                <span className='text-[10px] line-clamp-2 mt-1'>Re-open on 24 Nov, Claim your reward here!</span>
-              </div>
-              <div className='bg-re-200 flex justify-end items-center mt-2 mr-2'>
-                <button className='bg-[#1ED746] border-2 border-[#1c7730] text-[10px] font-semibold px-3 py-0.5'>Get now</button>
-              </div>
-            </div>
+            </div> */}
+
+
           </div>
         </div>
       </div>

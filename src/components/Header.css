@@ -1,0 +1,17 @@
+.motion-duration-css{
+    --motion-duration: 3500ms;
+}@keyframes typewriter {
+    from {
+        width: 0;
+    }
+    to {
+        width: var(--motion-preset-typewriter-width);
+    }
+}
+
+.motion-typewriter {
+    overflow: hidden;
+    white-space: nowrap;
+    display: inline-flex;
+    animation: typewriter var(--motion-duration, 2s) steps(30, end) forwards;
+}

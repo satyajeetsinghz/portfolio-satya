@@ -20,8 +20,8 @@ const HamburgerMenu = () => {
       {/* Overlay Menu */}
       {isMenuOpen && (
         <div className="fixed inset-0 bg-black flex justify-center items-center z-50">
-            <div className='absolute h-screen w-4 bg-emerald-400 left-0'></div>
-          <div className="flex flex-col items-center space-y-6 text-emerald-400">
+            <div className='absolute h-screen w-4 bg-[#1ED746] left-0'></div>
+          <div className="flex flex-col items-center space-y-6 text-[#1ED746]">
             <a href="#" className="text-2xl">About</a>
             <a href="#" className="text-2xl">Resume</a>
             <a href="#" className="text-2xl">Projects</a>
@@ -29,7 +29,7 @@ const HamburgerMenu = () => {
 
           {/* Close Button */}
           <button
-            className="absolute top-4 right-4 text-emerald-300 text-xl focus:outline-none"
+            className="absolute top-4 right-4 text-[#1ED746] text-xl focus:outline-none"
             onClick={toggleMenu}
           >
             ✖

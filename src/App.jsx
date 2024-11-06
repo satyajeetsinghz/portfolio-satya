@@ -4,6 +4,7 @@ import Header from './components/Header'
 import Navbar from './components/Navbar'
 import About from './components/About'
 import Projects from './components/Projects'
+import Test from './components/Test'
 
 
 function App() {
@@ -22,6 +23,7 @@ function App() {
         <hr className='border-2 border-dotted border-[#24b043]' />
       </div>
       <Projects />
+      <Test />
     </>
   )
 }
